@@ -1,2 +1,7 @@
-# demo-msa
-Code used to build services used for presentation.
+# Services
+A demonstration of a service built with microservices.
+
+- Webapp
+- planner
+- inventory
+- shoppinglist
